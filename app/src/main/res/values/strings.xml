@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BG Compose</string>
+    <string name="txt_tema">Tutorial do Jetpack Compose</string>
+    <string name="txt_texto1">Jetpack Compose é um kit de ferramentas moderno para criar UI nativa do Android. O Compose simplifica e acelera o desenvolvimento de UI no Android com menos código, ferramentas poderosas e APIs Kotlin intuitivas.</string>
+    <string name="txt_texto2">Neste tutorial, você cria um componente de UI simples com funções declarativas. Você chama funções do Compose para dizer quais elementos deseja e o compilador do Compose faz o resto. O Compose é construído em torno de funções Composable. Essas funções permitem definir a interface do usuário do seu aplicativo programaticamente porque permitem descrever como ele deve ser e fornecer dependências de dados, em vez de focar no processo de construção da interface do usuário, como inicializar um elemento e anexá-lo a um pai. Para criar uma função Composable, adicione a anotação @Composable ao nome da função.</string>
+</resources>
